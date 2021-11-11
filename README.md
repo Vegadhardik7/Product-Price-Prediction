@@ -20,11 +20,8 @@ First I deal with the Laptop price prediction since it has lot many features and
 
 Example:
 
-### Laptop Price Prediction 
 ![](p1.png)
 
-### Mobile Price Prediction
 ![](p2.png)
 
-### Car Price Prediction
 ![](p3.png)
